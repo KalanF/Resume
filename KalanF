@@ -60,20 +60,38 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
-        <p>Your Profession</p>
+        <h1>Kalan Stanley Funk</h1>
+        <p>Business Student at SAIT</p>
     </header>
 
     <div class="content">
         <h2>Contact Information</h2>
         <div class="contact">
-            <p>Email: your.email@example.com</p>
-            <p>Phone: +1234567890</p>
-            <p>Website: www.yourwebsite.com</p>
+            <p>Email: ksfunk1@gmail.com</p>
+            <p>Phone: +5876644870</p>
+            <p>Linkedin: www.linkedin.com/in/kalan-funk</p>
+
         </div>
 
         <h2>About Me</h2>
-        <p>Brief description of your background, skills, and experience.</p>
+        <p>
+Experience:
+Auto Handler
+Hansen's
+Oct 2023 - Present
+Calgary, Alberta, Canada
+Offloading new and used vehicles from trains, transporting/parking them in the yard and up to be loaded onto car carriers
+
+Cashier
+Netsui Sushi & Japanese Grill
+Apr 2022 - Oct 2023 
+Calgary, Alberta, Canada
+Providing customer service and receiving food orders whilst maintaining interpersonal communication and dealing with cash and debit machines.
+
+Education:
+Southern Alberta Institute of Technology (SAIT)
+Diploma of Education, Business Administration Financial Services
+May 2024 - Aug 2025</p>
 
         <h2>Download My Resume</h2>
         <p>You can download my full resume in PDF format by clicking the link below:</p>
